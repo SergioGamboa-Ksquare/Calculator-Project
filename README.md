@@ -3,12 +3,12 @@
 # FirstProject
 | User Stories     | Sergio | Federico |
 | ---------------- | :--: | ---: |
-| The calculator must contain a clickable element containing an equal sign  |     |      |
-| The calculator must contain 10 clickable elements with numbers from 0 to 9  |      |    |
+| The calculator must contain a clickable element containing an equal sign  |     |   x   |
+| The calculator must contain 10 clickable elements with numbers from 0 to 9  |      |  x  |
 | The calculator must contain 4 clickable elements each one with the primary mathematical operators "add", "subtract", "multiply", "divide"  |     |      |
 | The calculator must contain a clickable element with a period "." that will add a decimal to our number   |     |      |
 | The calculator must contain a clickable element with the following character "C" that will clear all the state of the calculator; the input and output values and returns the calc to 0'   |     |      |
-| The calculator must contain an element to display the values for the calculator   |     |      |
+| The calculator must contain an element to display the values for the calculator   |     |   x   |
 | As a user when I input numbers, I should be able to see them in the display =  |     |      |
 | At any time and in any order, I should be able to multiply, divide, subtract and add a chain of numbers of any length and after hitting equal the display should show the correct result   |     |      |
 | No number can begin with multiple 0's   |     |      |
