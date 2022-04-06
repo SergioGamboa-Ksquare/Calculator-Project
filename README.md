@@ -9,7 +9,7 @@
 | The calculator must contain a clickable element with a period "." that will add a decimal to our number   |  x   |      |
 | The calculator must contain a clickable element with the following character "C" that will clear all the state of the calculator; the input and output values and returns the calc to 0'   |  x   |      |
 | The calculator must contain an element to display the values for the calculator   |     |   x   |
-| As a user when I input numbers, I should be able to see them in the display =  |     |      |
+| As a user when I input numbers, I should be able to see them in the display =  |     |   x  |
 | At any time and in any order, I should be able to multiply, divide, subtract and add a chain of numbers of any length and after hitting equal the display should show the correct result   |     |      |
 | No number can begin with multiple 0's   |     |      |
 | When clicking the decimal or period element a '.' should be added to the current number and only one decimal can be present per number   |     |      |
